@@ -1,0 +1,7 @@
+version: 1.0
+name: DifficultMode
+main: com.william.plugin.Main
+
+author: me
+description: Difficult Mode (duh)
+
